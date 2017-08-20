@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitHubQuery</string>
+    <string name="error_message">Failed to get result, please try again.</string>
+</resources>
